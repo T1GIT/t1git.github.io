@@ -1,3 +1,0 @@
-[http]
-[http "https://t1git.github.io/*"]
-	proxy = https://t1git.github.io
