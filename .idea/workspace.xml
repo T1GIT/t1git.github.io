@@ -2,20 +2,45 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="93a7fe54-4c46-4a88-8bd1-5560b73c3aa3" name="Changes" comment="Initial commit">
-      <change afterPath="$PROJECT_DIR$/fonts/Cyrene-Regular-subset.94fd04fe.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/Montserrat-Regular-subset.f5216047.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/Montserrat-Regular-subset.f9bbc6f4.otf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/chunk-26d829fb.bee85b9e.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/chunk-26d829fb.bee85b9e.js.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/app.dfe55cc1.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/app.e0b9b7ae.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/chunk-03037682.563f9d27.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/chunk-26d829fb.f27f0991.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/Montserrat-Regular-subset.12123c83.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/app.009a6341.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/app.5231804b.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/app.009a6341.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/js/app.5231804b.js.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/chunk-03037682.fa1ddffb.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/chunk-03037682.fa1ddffb.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/app.e0b9b7ae.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/chunk-26d829fb.f27f0991.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/chunk-2dfce78b.20d496ef.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/chunk-3dbdfbf9.192a6650.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/favicon.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/Cyrene-Regular-subset.94fd04fe.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/Cyrene-Regular-subset.ea4db7dc.otf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/Montserrat-Regular-subset.f5216047.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/Montserrat-Regular-subset.f9bbc6f4.otf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/0.b86aef74.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/0.ce97962a.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/1.1bada758.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/1.e0920d08.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/2.549f5acd.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/2.b5902f1c.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/artem.17a72ef2.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/bg.0c516e0f.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/bg.2c66fedf.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/bg.8c3669d0.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/bg.b44b594c.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/contacts.sprite.506313f0.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/daniil.232bf12a.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/dmitriy.b4e90f37.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/fu-logo.sprite.b8da7d2e.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/georgiy.108d4120.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/manager.f6a7fedd.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/snowflakes.sprite.405fde1c.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/social.sprite.9e2faae9.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/app.5231804b.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/app.5231804b.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/chunk-26d829fb.bee85b9e.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/chunk-26d829fb.bee85b9e.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/chunk-2dfce78b.eac82907.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/chunk-2dfce78b.eac82907.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/chunk-3dbdfbf9.d17bbfec.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/chunk-3dbdfbf9.d17bbfec.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/chunk-vendors.10ae8f53.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/chunk-vendors.10ae8f53.js.map" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,7 +92,7 @@
       <option name="presentableId" value="Default" />
       <updated>1640016375423</updated>
       <workItem from="1640016376743" duration="2479000" />
-      <workItem from="1640071998784" duration="1117000" />
+      <workItem from="1640071998784" duration="1574000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <created>1640016420520</created>
@@ -111,7 +136,14 @@
       <option name="project" value="LOCAL" />
       <updated>1640017557760</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Initial commit">
+      <created>1640074474661</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1640074474661</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
