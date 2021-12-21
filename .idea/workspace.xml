@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="93a7fe54-4c46-4a88-8bd1-5560b73c3aa3" name="Changes" comment="Initial commit" />
+    <list default="true" id="93a7fe54-4c46-4a88-8bd1-5560b73c3aa3" name="Changes" comment="Initial commit">
+      <change afterPath="$PROJECT_DIR$/js/app.4c20e40e.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/app.174bca32.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/app.4c20e40e.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/app.174bca32.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/chunk-2dfce78b.eac82907.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/chunk-2dfce78b.eac82907.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/chunk-3dbdfbf9.d17bbfec.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/chunk-3dbdfbf9.d17bbfec.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/chunk-vendors.8d5bc892.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/chunk-vendors.8d5bc892.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -52,7 +60,7 @@
       <option name="presentableId" value="Default" />
       <updated>1640016375423</updated>
       <workItem from="1640016376743" duration="2479000" />
-      <workItem from="1640071998784" duration="2032000" />
+      <workItem from="1640071998784" duration="2497000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <created>1640016420520</created>
@@ -110,7 +118,35 @@
       <option name="project" value="LOCAL" />
       <updated>1640074967214</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Initial commit">
+      <created>1640075459290</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1640075459290</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Initial commit">
+      <created>1640075556134</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1640075556134</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Initial commit">
+      <created>1640075593459</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1640075593459</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Initial commit">
+      <created>1640075665447</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1640075665447</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
